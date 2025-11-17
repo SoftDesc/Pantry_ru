@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag-1 on Кладовая</title>
+    <link>http://localhost/tags/tag-1/</link>
+    <description>Recent content in Tag-1 on Кладовая</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <atom:link href="http://localhost/tags/tag-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>О...</title>
+      <link>http://localhost/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/about/</guid>
+      <description>&lt;p&gt;И дальше идет текст&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

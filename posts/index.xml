@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Кладовая</title>
+    <link>http://localhost/posts/</link>
+    <description>Recent content in Posts on Кладовая</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выбор кладовой</title>
+      <link>http://localhost/posts/10/10/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/10/10/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;10.png&#34;&gt;&lt;img src=&#34;10.png&#34; alt=&#34;Выбор кладовой&#34;&gt;&lt;/a&gt;&#xA;Кладовая в программе - место где хранятся вещи.&lt;/p&gt;&#xA;&lt;p&gt;Форма позволяет выбрать кладоую при вводе данных.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Выбор количества банок</title>
+      <link>http://localhost/posts/11/11/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/11/11/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;11.png&#34;&gt;&lt;img src=&#34;11.png&#34; alt=&#34;Выбор количества банок&#34;&gt;&lt;/a&gt;&#xA;В форме выбора количества можно цифрами набрать количество банок:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;кнопка &amp;ldquo;X&amp;rdquo; - очищает набранные цифры;&lt;/li&gt;&#xA;&lt;li&gt;кнопка &amp;ldquo;&amp;gt;&amp;rdquo; - подтверждение ввода и переход к следующему экрану.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Выбор объема</title>
+      <link>http://localhost/posts/12/12/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/12/12/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;12.png&#34;&gt;&lt;img src=&#34;12.png&#34; alt=&#34;Выбор объема&#34;&gt;&lt;/a&gt;&#xA;Тут можно цифрами набрать необходимый объем.&lt;/p&gt;&#xA;&lt;p&gt;В форме выбора объема можно цифрами указать объем банок:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;кнопка &amp;ldquo;X&amp;rdquo; - очищает набранные цифры;&lt;/li&gt;&#xA;&lt;li&gt;кнопка &amp;ldquo;&amp;gt;&amp;rdquo; - подтверждение ввода и переход к следующему экрану.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Описание вещи</title>
+      <link>http://localhost/posts/4/4/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/4/4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;4.png&#34;&gt;&lt;img src=&#34;4.png&#34; alt=&#34;Описание вещи&#34;&gt;&lt;/a&gt;&#xA;Вещь может иметь:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;наименование;&lt;/li&gt;&#xA;&lt;li&gt;срок хранения - может заполняться автоматически по значению из настроек программы;&lt;/li&gt;&#xA;&lt;li&gt;вес - вес вещи;&lt;/li&gt;&#xA;&lt;li&gt;количество - измерение вещи в количественном выражении;&lt;/li&gt;&#xA;&lt;li&gt;объем - объем вещи;&lt;/li&gt;&#xA;&lt;li&gt;рецепт - для банок;&lt;/li&gt;&#xA;&lt;li&gt;картинка - может быть привязана картинка;&lt;/li&gt;&#xA;&lt;li&gt;описание - может быть задано описание.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Описание настроек</title>
+      <link>http://localhost/posts/8/8/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/8/8/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;8.png&#34;&gt;&lt;img src=&#34;8.png&#34; alt=&#34;Описание настроек&#34;&gt;&lt;/a&gt;&#xA;Основные:&lt;/p&gt;&#xA;&lt;p&gt;Как вводить поступления:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Печать пустых QR-кодов потом ввод данных&amp;rdquo; - случай, когда печатаются и наклеиваются QR-коды содержащие только уникальные GUID-ы. Затем, при сканировании QR-кодов, указываются параметры вещи: рецепт, объем и количество.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Ввод данных потом печать QR-кодов&amp;rdquo; - Вводятся данные по рецептам, количеству и объемам, затем печатаются и наклеиваются QR-коды, которые содержат введенную информацию.&lt;/p&gt;&#xA;&lt;p&gt;Напоминания:&lt;/p&gt;&#xA;&lt;p&gt;Если установлен флаг &amp;ldquo;Напоминать об истечении срока хранения&amp;rdquo;, программа, при запуске, будет отображать уведомление по позициям у которых заканчивается срок хранения.Параметр &amp;ldquo;Количество месяцев хранения до напоминания&amp;rdquo; устанавливает период, когда для продукта начинают отображаться уведомления.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Основная страница</title>
+      <link>http://localhost/posts/1/1/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/1/1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;1.png&#34;&gt;&lt;img src=&#34;1.png&#34; alt=&#34;Основная страница&#34;&gt;&lt;/a&gt;&#xA;На начальной странице находятся:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;кнопка внесения прихода;&lt;/li&gt;&#xA;&lt;li&gt;кнопка внесения расхода;&lt;/li&gt;&#xA;&lt;li&gt;кнопка получения информации по QR-коду;&lt;/li&gt;&#xA;&lt;li&gt;кнопка формирования отчета по остаткам;&lt;/li&gt;&#xA;&lt;li&gt;список текущего состояния остатков вещей.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Отчет Остатки</title>
+      <link>http://localhost/posts/7/7/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/7/7/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;7.png&#34;&gt;&lt;img src=&#34;7.png&#34; alt=&#34;Отчет &amp;ldquo;Остатки&amp;rdquo;&#34;&gt;&lt;/a&gt;&#xA;Можно посмотреть остатки на заданную дату в:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;количественном выражении;&lt;/li&gt;&#xA;&lt;li&gt;в весе;&lt;/li&gt;&#xA;&lt;li&gt;в объеме.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Печать этикеток для последующего ввода поступления.</title>
+      <link>http://localhost/posts/3/3/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/3/3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;3.png&#34;&gt;&lt;img src=&#34;3.png&#34; alt=&#34;Печать этикеток для последующего ввода поступления.&#34;&gt;&lt;/a&gt;&#xA;По кнопке &amp;ldquo;Печать&amp;rdquo; можно напечатать пустые этикетки, наклеить на крышки, чтобы позже внести данные о рецепте и объеме заготовки.Такая последовательность печати используется при установленном параметре &amp;ldquo;Как вводить поступления&amp;rdquo; в значение &amp;ldquo;Печать пустых QR-кодов потом ввод данных&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Поступление вещей</title>
+      <link>http://localhost/posts/5/5/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/5/5/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;5.png&#34;&gt;&lt;img src=&#34;5.png&#34; alt=&#34;Поступление вещей&#34;&gt;&lt;/a&gt;&#xA;Тут хранятся данные по поступившим вещам.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Расход вещей</title>
+      <link>http://localhost/posts/6/6/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/6/6/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;6.png&#34;&gt;&lt;img src=&#34;6.png&#34; alt=&#34;Расход вещей&#34;&gt;&lt;/a&gt;&#xA;Тут сохраняются данные по расходу.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Резервная копия</title>
+      <link>http://localhost/posts/9/9/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/9/9/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;9.png&#34;&gt;&lt;img src=&#34;9.png&#34; alt=&#34;Резервная копия&#34;&gt;&lt;/a&gt;&#xA;Кнопка &amp;ldquo;Создать резервную копию&amp;rdquo; позволяет сохранить введенные в программу данные в файле формата &amp;ldquo;XML&amp;rdquo;.Кнопка &amp;ldquo;Восстановить из резервной копии&amp;rdquo; позволяет восстановить в программе данные из файле формата &amp;ldquo;XML&amp;rdquo;. ПРИ ЭТОМ ПРЕДЫДУЩИЕ ДАННЫЕ БУДУТ ОЧИЩЕНЫ!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Сканирование новых QR-кодов</title>
+      <link>http://localhost/posts/13/13/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/13/13/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;13.png&#34;&gt;&lt;img src=&#34;13.png&#34; alt=&#34;Сканирование новых QR-кодов&#34;&gt;&lt;/a&gt;&#xA;Форма позволяет сопоставить и сохранить отсканированный QR-код с рецептом, объемом и датой изготовления.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Спасибо</title>
+      <link>http://localhost/posts/thanks/thanks/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/thanks/thanks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/zero&#34;&gt;Zero icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number-one&#34;&gt;Number one icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number-2&#34;&gt;Number 2 icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/three&#34;&gt;Three icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/4&#34;&gt;4 icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number-5&#34;&gt;Number 5 icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number&#34;&gt;Number icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/number-8&#34;&gt;Number 8 icons created by Hight Quality Icons - Flaticon&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
